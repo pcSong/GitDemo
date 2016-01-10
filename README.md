@@ -1,2 +1,2 @@
 # GitDemo
-For test git function.
+For test git function privately.
